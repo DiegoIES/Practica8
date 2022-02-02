@@ -1,0 +1,16 @@
+.caption{
+    font-weight: bolder;
+}
+
+.tabla1y2{
+    border: red 1px solid;
+}
+
+.azul{
+    border: blue 1px solid;
+}
+
+.tabla3{
+    border: green 1px solid;
+    width: 40%;
+}
